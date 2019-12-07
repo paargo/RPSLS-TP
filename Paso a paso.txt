@@ -3,6 +3,22 @@ Paso a paso de tp
 0) Traduccion y refinamiento de margin
 1) Convertir de JS a TS seleccionando todo con la funcion toTypeScript()
 2) Crear clase Opcion y generar el constructor
-3) Crear Getters y Setters de cada atributo
 4) Definir los 5 objetos de Opcion
+
+--3) Crear Getters y Setters de cada atributo
+
+
 5) BUSCAR CREADOR DE CONSTRUCTOR
+
+6) Imprimir nombre de opciones
+7) levantar imagenes
+8) modificar logica general
+---------------
+Modelo:
+    Objeto opciones
+
+Vista:
+    HTML
+
+Controlador:
+    defineOpciones
